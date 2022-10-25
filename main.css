@@ -1,0 +1,129 @@
+
+i{padding-right: 3px;}
+
+header{
+
+height: 110px;
+background-color: aqua;
+
+}
+
+input[type="search"]{
+width: 353px !important;
+
+
+}
+
+.nvbr ul{
+
+display: flex;
+flex-direction: row-reverse;
+
+}
+
+.nvbr ul li{
+    margin-top: 4px;
+  list-style: none;
+   margin-left: 30px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: small;
+    color:  #336273 ; 
+    
+    }
+
+.res{
+
+margin: 20px;
+    height: 41px;
+}
+
+.alt-nvbr{
+
+    display: flex;
+    flex-direction: row ;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.alt-nvbr .item3 ul{
+    display: flex;
+    flex-direction: row-reverse;
+    margin: 10px;
+
+}
+
+.alt-nvbr .item3 ul li{
+
+    margin-top: 4px;
+    list-style: none;
+     margin-left: 30px;
+      font-family:Arial, Helvetica, sans-serif;
+      font-size:large;
+      color:  #336273 ; 
+
+}
+
+.kateg{
+      
+    height: 58px;
+    background-color: #336273;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    
+}
+
+.kateg .orta-ust ul{
+
+display: flex;
+flex-direction: row;
+justify-content: space-around;     
+}
+
+.kateg ul li{
+
+    margin-top: 10px;
+    list-style: none; 
+      font-family:Arial, Helvetica, sans-serif;
+      font-size:small;
+      color:  #ffffff ; 
+}
+
+.karusel{
+height: 82px;
+display: flex;
+flex-direction: row;
+align-items: center;
+justify-content:center;
+
+}
+
+
+
+.btn-lg{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif !important;
+width: 160px !important;
+margin: 10px !important;
+
+}
+
+.serit{
+
+display: flex;
+flex-direction: row;
+justify-content: center
+
+}
+
+.serit .item{
+
+height: 41px;
+width: 285px;
+background-color: #efefef;
+text-align: center;
+margin: 1px;
+}
+
+.serit .item:hover{
+background-color: #336273;
+}
